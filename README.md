@@ -1,2 +1,2 @@
 # PythonAutomator
-easdasd
+Python Automator for CLI Operation
